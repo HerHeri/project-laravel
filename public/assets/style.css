@@ -1,0 +1,122 @@
+.page-1,
+.page-1 * {
+  box-sizing: border-box;
+}
+.page-1 {
+  background: linear-gradient(
+    170.82deg,
+    rgba(98, 98, 98, 1) 0%,
+    rgba(98, 98, 98, 0) 100%
+  );
+  width: 430px;
+  height: 932px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-13 {
+  background: #ffffff;
+  width: 430px;
+  height: 901px;
+  position: absolute;
+  left: 0px;
+  top: 31px;
+}
+.habib-adiba {
+  color: #0d4191;
+  text-align: left;
+  font: 600 36px "Karma", sans-serif;
+  position: absolute;
+  left: 23px;
+  top: 674px;
+  width: 394px;
+  height: 35px;
+}
+.nama-tamu {
+  color: #0d4191;
+  text-align: left;
+  font: 600 20px "Karma", sans-serif;
+  position: absolute;
+  left: 23px;
+  top: 771px;
+  width: 394px;
+  height: 35px;
+}
+.img-wedding-1-1 {
+  width: 430px;
+  height: 572px;
+  position: absolute;
+  left: 0px;
+  top: -7px;
+}
+.the-wedding-of {
+  color: #0d4191;
+  text-align: center;
+  font: 400 20px "Karma", sans-serif;
+  position: absolute;
+  left: 23px;
+  top: 645px;
+}
+.kepada-bapak-ibu-saudara-i {
+  color: #0d4191;
+  text-align: center;
+  font: 400 16px "Karma", sans-serif;
+  position: absolute;
+  left: 23px;
+  top: 748px;
+}
+.button {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-14 {
+  background: #0d4191;
+  border-radius: 7px;
+  width: 165px;
+  height: 33px;
+  position: absolute;
+  left: 27px;
+  top: 829px;
+}
+.envelope-1 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 36px;
+  top: 832px;
+}
+.buka-undangan {
+  color: #ffffff;
+  text-align: left;
+  font: 600 15px "Karma", sans-serif;
+  position: absolute;
+  left: 72px;
+  top: 836px;
+}
+.rectangle-15 {
+  background: linear-gradient(
+    -1.69deg,
+    rgba(255, 255, 255, 1) 16.14583283662796%,
+    rgba(217, 217, 217, 0) 100%
+  );
+  width: 430px;
+  height: 489px;
+  position: absolute;
+  left: 0px;
+  top: 153px;
+}
+.mini-bunga-tema-06-atas-1 {
+  width: 235px;
+  height: 238px;
+  position: absolute;
+  left: 431px;
+  top: 698px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.mini-bunga-tema-06-atas-12 {
+  width: 235px;
+  height: 238px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
